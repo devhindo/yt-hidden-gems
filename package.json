@@ -1,5 +1,5 @@
 {
-  "name": "chrome-extension-template-with-typescript",
+  "name": "yt-hidden-gems",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/devhindo/chrome-extension-template-with-typescript.git"
+    "url": "git+https://github.com/devhindo/yt-hidden-gems.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/devhindo/chrome-extension-template-with-typescript/issues"
+    "url": "https://github.com/devhindo/yt-hidden-gems/issues"
   },
-  "homepage": "https://github.com/devhindo/chrome-extension-template-with-typescript#readme",
+  "homepage": "https://github.com/devhindo/yt-hidden-gems#readme",
   "devDependencies": {
     "@types/chrome": "^0.0.231",
     "@types/node": "^18.15.11",
